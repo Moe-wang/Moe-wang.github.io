@@ -11,7 +11,11 @@
         
     h4 {color:darkgoldenrod ;
         text-align:center;
+        font-family: courier new;
     }
     
     h3 {color:black ;
+}
+
+    h2 {font-family: courier new;
 }
