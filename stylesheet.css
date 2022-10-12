@@ -1,18 +1,20 @@
 
-    h1 {background-color:azure;
-        color:darkseagreen;
+    h1 {background-color:azure ;
+        color:darkseagreen ;
         text-align:left;
     }
     
-    body {background-color:antiquewhite;
+    body {background-color:antiquewhite ;
         color:cornflowerblue;
         font-family: sans-serif;
     }
         
-    h4 {color:darkgoldenrod;
+    h4 {color:darkgoldenrod ;
         text-align:center;
     }
     
-    h2 {
+    h2 {color:orange ;
     }
     
+    h3 {background-color:azure ;
+}
